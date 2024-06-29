@@ -11,7 +11,7 @@ url = "https://ielts.idp.com/book/Json/FindAvailableTestSessionForNewBooking"
 payload = {
     "testSessionFromDate": "2024-Aug-01",
     "testSessionToDate": "2024-Nov-30",
-    "testVenueId": 1771,
+    "testVenueId": 179,
     "testCentreId": 11995,
     "testModules": [1, 7],
     "testFormatId": 1,
