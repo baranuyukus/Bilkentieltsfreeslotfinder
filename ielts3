@@ -3,8 +3,8 @@ import time
 import json
 
 # Telegram Bot Information (replace with your actual credentials)
-TELEGRAM_BOT_TOKEN = "7261514373:AAE83wjAnncKJEju4f9fM6DPwchqmzdwzZU"
-CHAT_ID = "-1002181084335"
+TELEGRAM_BOT_TOKEN = "token"
+CHAT_ID = "chat"
 
 url = "https://ielts.idp.com/book/Json/FindAvailableTestSessionForNewBooking"
 
